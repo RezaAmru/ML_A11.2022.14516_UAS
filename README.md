@@ -1,5 +1,8 @@
 # UAS PEMBELAJARAN MESIN
-## JUDUL
+## Nama : Reza Amru Nismara
+## Nim :A11.2022.14516
+## Kel : 4419
+### JUDUL
 - Rekomendasi Lagu Spotify menggunakan K-means-clustering
 ### Penjelasan Mengenai Spotify
 - Sistem rekomendasi lagu Spotify adalah teknologi yang digunakan untuk menyarankan lagu-lagu yang mungkin disukai oleh pengguna berdasarkan preferensi mereka sebelumnya, perilaku pengguna, dan berbagai faktor lainnya. Sistem ini memanfaatkan berbagai teknik pembelajaran mesin dan analisis data untuk menghasilkan rekomendasi yang relevan dan personal
