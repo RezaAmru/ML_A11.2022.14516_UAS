@@ -1,7 +1,7 @@
 # UAS PEMBELAJARAN MESIN
-## Nama : Reza Amru Nismara
-## Nim :A11.2022.14516
-## Kel : 4419
+- Nama : Reza Amru Nismara
+- Nim : A11.2022.14516
+- Kel : 4419
 ### JUDUL
 - Rekomendasi Lagu Spotify menggunakan K-means-clustering
 ### Penjelasan Mengenai Spotify
